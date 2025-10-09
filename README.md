@@ -1,3 +1,3 @@
 # JS Library
 
-For use with git module, useful for mitigating supply chain attack with npm and cdn
+For use with git submodule, useful for mitigating supply chain attack with npm and cdn
